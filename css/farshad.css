@@ -1,0 +1,36 @@
+@charset "utf-8";
+*{
+	direction: rtl;
+}
+#bala{
+	height: 40px;
+	background-color: #352496;
+	
+	
+}
+#sabtenam{height: 100%;
+	text-align: center;
+	width: 400px;
+	float: right;
+}
+#tele,#shomare{
+text-decoration-color: white;
+height: 100%;
+	float: right;
+	width: 400px;
+	text-align: center;
+color: white;
+}
+menubala{
+	text-align: center;
+}
+ul{text-align: center;}
+li{list-style-type: none;
+	float: right;
+	
+	width: 100px;
+}
+a{font-size: 18px;
+	color:black;
+	text-decoration: none;
+}
